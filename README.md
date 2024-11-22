@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabaig786
+- 👋 Hi, I’m @sabaig786 a Neuroradiologist in Seattle
 - 👀 I’m interested in image processing and artificial intelligence in medical imaging
 - 🌱 I’m currently learning more about spinalcord toolkit and transfer learning applied to neuroimaging
 - 💞️ I’m looking to collaborate on building imaging pipelines, object detection and image segmentation projects
